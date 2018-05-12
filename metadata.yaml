@@ -1,0 +1,55 @@
+_repo: Jersey-Street-and-Jersey-Lane--Urban-and-Suburban-Sketches_21597
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Wiles, Irving Ramsay
+    birthdate: 1861
+    deathdate: 1948
+    gutenberg_agent_id: '24801'
+    url: http://www.gutenberg.org/2009/agents/24801
+  - agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+  - agent_name: Clinedinst, B. West (Benjamin West)
+    alias: Clinedinst, Benjamin West
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '24800'
+    url: http://www.gutenberg.org/2009/agents/24800
+  - agent_name: Frazier, Kenneth
+    birthdate: 1867
+    deathdate: 1949
+    gutenberg_agent_id: '24802'
+    url: http://www.gutenberg.org/2009/agents/24802
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: 1855
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+description: ''
+gutenberg_issued: '2007-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: Jersey and Mulberry -- Tiemann's to Tubby Hook -- The Bowery and
+  Bohemia -- The story of a path -- The lost child -- A letter to town.
+title: 'Jersey Street and Jersey Lane: Urban and Suburban Sketches'
+url: http://www.gutenberg.org/ebooks/21597
